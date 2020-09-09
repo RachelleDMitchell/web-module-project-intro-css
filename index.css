@@ -46,3 +46,25 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+
+a{
+    border-radius: 20px;
+    margin: 20px;
+    padding: 25px;
+    width: 100px;
+    
+}
+.plan{
+    background: #FF764E;
+
+}
+.learn{
+    background: #5ED3EB;
+
+}
+.get{
+    background: #FFCD69;
+
+}
