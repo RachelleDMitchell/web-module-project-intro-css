@@ -81,6 +81,9 @@ header img{
     padding: 20px;
     width: 800px;
 }
+body{
+    font-family: Roboto Mono; monospae;
+}
 .guide{
     font-family: Chelsea Market;
 }
