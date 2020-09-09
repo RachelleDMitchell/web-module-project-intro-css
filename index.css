@@ -73,6 +73,7 @@ header img{
     float:left;
     width:200px;
     height:200px;
+    margin: 50px;
 
 }
 .main{
@@ -82,8 +83,11 @@ header img{
     width: 800px;
 }
 body{
-    font-family: Roboto Mono; monospace;
+    font-family: Roboto Mono, monospace;
 }
 .guide{
     font-family: Chelsea Market;
+    margin: 200px;
+    width: 600px;
+    text-align: center;
 }
