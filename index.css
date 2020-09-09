@@ -81,6 +81,7 @@ header img{
     margin: 20px;
     padding: 20px;
     width: 800px;
+    box-sizing: border-box;
 }
 body{
     font-family: Roboto Mono, monospace;
@@ -90,11 +91,26 @@ body{
     margin: 200px;
     width: 600px;
     text-align: center;
+    box-sizing: border-box;
 }
 .campfire img{
     width: 100px;
 
 }
+.campfire{
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+    width: 300px;
+    box-sizing: border-box;
+}
 .bus img{
     width: 100px;
+}
+.bus{
+    text-align: center;
+    margin: 50px;
+    padding: 25px;
+    width: 300px;
+    box-sizing: border-box;
 }
