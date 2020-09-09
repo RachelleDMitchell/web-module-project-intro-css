@@ -85,7 +85,8 @@ header nav{
 }
 .main{
     background: #DDB9A3;
-    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
     width: 800px;
     box-sizing: border-box;
@@ -106,7 +107,8 @@ body{
 }
 .campfire{
     text-align: center;
-    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 25px;
     width: 300px;
     box-sizing: border-box;
@@ -116,7 +118,8 @@ body{
 }
 .bus{
     text-align: center;
-    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 25px;
     width: 300px;
     box-sizing: border-box;
