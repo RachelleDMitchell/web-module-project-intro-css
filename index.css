@@ -135,4 +135,8 @@ footer nav{
     padding: 25px;
     width: 100%;
     box-sizing: border-box;
+    
+}
+nav{
+    word-wrap: break-word;
 }
