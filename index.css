@@ -51,10 +51,12 @@ table {
 
 a{
     border-radius: 20px;
-    margin: 20px;
+    margin-left: 100px;
+    margin-right:100px;
     padding: 25px;
     width: 100px;
     text-decoration: none;
+    
     
 }
 .plan{
