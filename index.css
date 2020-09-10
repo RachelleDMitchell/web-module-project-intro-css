@@ -66,13 +66,23 @@ a{
     background: #FF764E;
 
 }
+.plan:hover{
+    background: white;
+    color: #FF764E;
+}
 .learn{
     background: #5ED3EB;
-
+}
+.learn:hover{
+    background: white;
+    color:#5ED3EB;
 }
 .get{
     background: #FFCD69;
-
+}
+.get:hover{
+    background: white;
+    color: #FFCD69;
 }
 header img{
     border-radius: 50%;
