@@ -54,6 +54,7 @@ a{
     margin: 20px;
     padding: 25px;
     width: 100px;
+    text-decoration: none;
     
 }
 .plan{
@@ -105,6 +106,12 @@ h1{
     font-size: 50px;
     margin: 10px;
 }
+.line1{
+    margin:50px;
+}
+.line2{
+    text-justify: auto;
+}
 .campfire img{
     width: 100px;
 
@@ -143,4 +150,5 @@ footer nav{
 }
 nav{
     word-wrap: break-word;
+   
 }
