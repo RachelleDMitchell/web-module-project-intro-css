@@ -136,6 +136,9 @@ h1{
     padding: 25px;
     width: 300px;
 }
+.fee, .fire{
+    font-weight: bold;
+}
 footer img{
     float: center;
     width: 100%;
