@@ -97,9 +97,13 @@ body{
 .guide{
     font-family: Chelsea Market;
     margin: 200px;
-    width: 600px;
+    width: 900px;
     text-align: center;
     box-sizing: border-box;
+}
+h1{
+    font-size: 50px;
+    margin: 10px;
 }
 .campfire img{
     width: 100px;
